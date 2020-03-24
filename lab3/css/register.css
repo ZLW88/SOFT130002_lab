@@ -1,0 +1,25 @@
+header{
+    height: 40px;
+}
+header a{
+    text-decoration: none;
+    float: right;
+    padding-right: 100px;
+    padding-top: 10px;
+    font-size: large;
+}
+header a:hover{
+    color: blue;
+}
+div{
+    margin: 50px 100px;
+    background-color: rgb(243, 237, 239);
+}
+h1,section{
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+section{
+    background-color: rgb(243, 237, 220);
+}
