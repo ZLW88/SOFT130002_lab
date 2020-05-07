@@ -30,7 +30,7 @@ Map：
 
 ​	与Set是类似的。
 
-![lab6](D:\郑立旺\SOFT130002_lab\lab6\lab6.png)
+![lab6](lab6.png)
 
-![GitHub截图](D:\郑立旺\SOFT130002_lab\lab6\GitHub截图.png)
+![GitHub截图](GitHub截图.png)
 
